@@ -1,0 +1,10 @@
+echo "*.csv" >> .gitignore
+echo "*.pcap" >> .gitignore
+echo "*.zip" >> .gitignore
+
+venv/ 
+backend/venv/ 
+frontend/venv/ 
+venv/ 
+backend/venv/ 
+frontend/venv/ 

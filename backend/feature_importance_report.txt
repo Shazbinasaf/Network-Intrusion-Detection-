@@ -1,0 +1,12 @@
+Dst Port: 0.134080
+Flow Duration: 0.027960
+Tot Fwd Pkts: 0.033540
+Tot Bwd Pkts: 0.026580
+Flow Byts/s: 0.000360
+Flow Pkts/s: 0.025780
+Pkt Len Max: 0.036220
+Pkt Len Mean: 0.001700
+Pkt Len Std: 0.019980
+SYN Flag Cnt: 0.000200
+ACK Flag Cnt: 0.024340
+FIN Flag Cnt: 0.001180
